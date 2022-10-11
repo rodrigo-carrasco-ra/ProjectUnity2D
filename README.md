@@ -3,5 +3,6 @@
 Proyecto Unity Juego 2D.
 
 INACAP 2022
-Integrantes: Maribel Ramirez
+Integrantes: Maribel Ramirez,
              Rodrigo Carrasco
+                          
