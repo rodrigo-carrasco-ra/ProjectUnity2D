@@ -194,7 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: "\xA1Barriste con ellos!"
 --- !u!222 &772843763
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -470,7 +470,7 @@ GameObject:
   - component: {fileID: 2036148769}
   - component: {fileID: 2036148768}
   m_Layer: 5
-  m_Name: Text1
+  m_Name: Felicidades
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -493,8 +493,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -99, y: 115}
-  m_SizeDelta: {x: 344.01, y: 66.4}
+  m_AnchoredPosition: {x: -110, y: 91}
+  m_SizeDelta: {x: 408.61, y: 126.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2036148768
 MonoBehaviour:
@@ -529,7 +529,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: FELICIDADES
+  m_Text: "Misi\xF3n Cumplida, \xA1Felicidades! "
 --- !u!222 &2036148769
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -573,8 +573,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 189.4, y: 133.20001}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 288.25, y: 83.06}
+  m_SizeDelta: {x: 348.5, y: 45.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2058155041
 MonoBehaviour:
@@ -609,7 +609,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Puntaje:00
+  m_Text: 'Enemigos despedazados: 00'
 --- !u!222 &2058155042
 CanvasRenderer:
   m_ObjectHideFlags: 0
