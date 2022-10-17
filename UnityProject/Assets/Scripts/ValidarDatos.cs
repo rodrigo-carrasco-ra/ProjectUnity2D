@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;  //
+using UnityEngine.UI;
 
 public class ValidarDatos : MonoBehaviour
 {
@@ -22,15 +22,16 @@ public class ValidarDatos : MonoBehaviour
         
     }
 
-    public void Validar(){
+    public void  Validar(){
         Nombre = CajaNombre.text;  //text devulve String
+        /*
         try{
             Edad = byte.Parse(CajaEdad.text);  //convierte en numero
         }
         catch(Exception ex){
-            Debug.Log("Error: Edad no valida");
+            Debug.Log(ex.Message);
         }
-     
+     */
         SceneManager.LoadScene("Scene_3");
         Debug.Log("El valor es" + Edad);
 
