@@ -348,6 +348,9 @@ GameObject:
   m_Component:
   - component: {fileID: 459356199}
   - component: {fileID: 459356198}
+  - component: {fileID: 459356202}
+  - component: {fileID: 459356201}
+  - component: {fileID: 459356200}
   m_Layer: 0
   m_Name: ScriptValidarDatos
   m_TagString: Untagged
@@ -367,8 +370,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd639d5ae1799642900220943169720, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CajaNombre: {fileID: 1500129586}
-  CajaEdad: {fileID: 2073505136}
 --- !u!4 &459356199
 Transform:
   m_ObjectHideFlags: 0
@@ -384,6 +385,42 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &459356200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459356197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd639d5ae1799642900220943169720, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &459356201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459356197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd639d5ae1799642900220943169720, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &459356202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459356197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd639d5ae1799642900220943169720, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &466916142
 GameObject:
   m_ObjectHideFlags: 0
@@ -548,13 +585,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 459356198}
-        m_TargetAssemblyTypeName: ValidarDatos, Assembly-CSharp
-        m_MethodName: Validar
+      - m_Target: {fileID: 459356197}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
