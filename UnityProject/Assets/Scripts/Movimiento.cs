@@ -52,7 +52,8 @@ public class Movimiento : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision) 
     {
-        if (collision.gameObject.tag=="Suelo")
-            en_suelo = true;
+        if (collision.collider.CompareTag("Suelo")){
+	  Debug.Log("Estoy pisando el suelo");}
+            en_suelo = true;		
     }
 }
