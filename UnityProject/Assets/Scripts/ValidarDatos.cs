@@ -25,13 +25,13 @@ public class ValidarDatos : MonoBehaviour
     }
     public void Validar(){
         Nombre = CajaNombre.text;
-        try{
-            Edad = byte.Parse(CajaEdad.text);
-        }
-        catch(Exception ex){
-            Debug.Log("Error: Edad no Valida");
+        //0try{
+        //    Edad = byte.Parse(CajaEdad.text);
+        //}
+        //catch(Exception ex){
+        //    Debug.Log("Error: Edad no Valida");
             //byte.TryParse(CajaEdad.text, out Edad);
-        }
+        //}
        
         SceneManager.LoadScene("Scene2");
         //Debug.Log("El valor es "+ Edad);
