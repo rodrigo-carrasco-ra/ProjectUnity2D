@@ -1,0 +1,654 @@
+fileFormatVersion: 2
+guid: bc4b4c6af96f40f42b5c3d55a52e0a58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 955
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924067a0998c4c14f935b465e77b4b12
+      internalID: 735046105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 956
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df326b03666c0f147b5c12b6873cb449
+      internalID: -1120780724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 956
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679105dba575174b9aabf521da10c37
+      internalID: -979333571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 956
+        width: 114
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f567853633c64b82a6c99c49d3746
+      internalID: -1200558805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 745
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f9ef8cf7acb6479113655e3756d5d
+      internalID: 368204862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 745
+        width: 122
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da9df03ebdd8c48a6ecdf5421e9743
+      internalID: 868101969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 743
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f4948513eafea48a9ed81036cf5447
+      internalID: 902648673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_7
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 746
+        width: 162
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6efe6e9bb26fab4f930fc9c14f47361
+      internalID: 1594247187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_8
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 180
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2791412060544439fc3d9dec8f557c
+      internalID: -148011124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_9
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 743
+        width: 179
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeea352a0e0ab4942b122e15e0214c53
+      internalID: -976139130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 535
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ca83250b88854aa5554f1b47f7ced
+      internalID: -1085449724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 535
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02c32587a2b8c144b8eb01e036c824a
+      internalID: 1610591845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 325
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc08575b39ea449b9bd5ba4ebc037a
+      internalID: 75014759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 325
+        width: 101
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3967508eb489ce4ebdfe2591bb8ee89
+      internalID: -1277163162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_14
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 324
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81595eea90031a346a8280850c824088
+      internalID: 1916084959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_15
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 325
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03a028e45c42c489f36406a60411a0
+      internalID: 627790485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_17
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 325
+        width: 103
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9893e7da30c2b408f1866b5a1864fe
+      internalID: 1122638762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_19
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 323
+        width: 115
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa2a4cf6b8786446918bc24264be070
+      internalID: 2109527645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 115
+        width: 92
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b42470236841ff4ba268908e2c4e8b5
+      internalID: 189706127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 115
+        width: 80
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3376fabc7d6f314fbef4cf4bb0ca5e0
+      internalID: -1750001987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 114
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aabe1da235f44b41a9112eb2f48e60a
+      internalID: -1841371540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_24
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 115
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ecffe600783e14fb60b1554d9bf4bd
+      internalID: -2042120163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 114
+        width: 66
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c00a177941394f809ee4223abc2bb
+      internalID: -1639810985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Residential-Area-Enemies-Pixel-Art-Pack2_26
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 114
+        width: 99
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a83a3590cb54344ae560162be85d28
+      internalID: -553649121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Residential-Area-Enemies-Pixel-Art-Pack2_11: 1610591845
+      Residential-Area-Enemies-Pixel-Art-Pack2_23: -1841371540
+      Residential-Area-Enemies-Pixel-Art-Pack2_5: 868101969
+      Residential-Area-Enemies-Pixel-Art-Pack2_21: 189706127
+      Residential-Area-Enemies-Pixel-Art-Pack2_24: -2042120163
+      Residential-Area-Enemies-Pixel-Art-Pack2_26: -553649121
+      Residential-Area-Enemies-Pixel-Art-Pack2_0: 735046105
+      Residential-Area-Enemies-Pixel-Art-Pack2_7: 1594247187
+      Residential-Area-Enemies-Pixel-Art-Pack2_9: -976139130
+      Residential-Area-Enemies-Pixel-Art-Pack2_15: 627790485
+      Residential-Area-Enemies-Pixel-Art-Pack2_17: 1122638762
+      Residential-Area-Enemies-Pixel-Art-Pack2_1: -1120780724
+      Residential-Area-Enemies-Pixel-Art-Pack2_6: 902648673
+      Residential-Area-Enemies-Pixel-Art-Pack2_2: -979333571
+      Residential-Area-Enemies-Pixel-Art-Pack2_3: -1200558805
+      Residential-Area-Enemies-Pixel-Art-Pack2_4: 368204862
+      Residential-Area-Enemies-Pixel-Art-Pack2_19: 2109527645
+      Residential-Area-Enemies-Pixel-Art-Pack2_8: -148011124
+      Residential-Area-Enemies-Pixel-Art-Pack2_16: -1991409484
+      Residential-Area-Enemies-Pixel-Art-Pack2_12: 75014759
+      Residential-Area-Enemies-Pixel-Art-Pack2_22: -1750001987
+      Residential-Area-Enemies-Pixel-Art-Pack2_20: 1540942828
+      Residential-Area-Enemies-Pixel-Art-Pack2_25: -1639810985
+      Residential-Area-Enemies-Pixel-Art-Pack2_14: 1916084959
+      Residential-Area-Enemies-Pixel-Art-Pack2_18: 1036015834
+      Residential-Area-Enemies-Pixel-Art-Pack2_13: -1277163162
+      Residential-Area-Enemies-Pixel-Art-Pack2_10: -1085449724
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
