@@ -15,10 +15,19 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene_3Nivel0.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Scene_4GameOver.unity
-    guid: a6d73c9d3284a7848a76c2597297ef60
+    path: Assets/Scenes/Scene_3Nivel1.unity
+    guid: d2c2053d02bf2a547ba3dcee9be74fcb
+  - enabled: 1
+    path: Assets/Scenes/Scene_3Nivel2.unity
+    guid: 1298c83a034a2774ea8526fc835692d3
   - enabled: 1
     path: Assets/Scenes/Scene_5YouWin.unity
     guid: e7cdcabd4406e6845a181fa3c9d07beb
+  - enabled: 1
+    path: Assets/Scenes/Scene_6LiderBoard.unity
+    guid: cd69b89edef5a204c97287e35f95f173
+  - enabled: 1
+    path: Assets/Scenes/Scene_4GameOver.unity
+    guid: a6d73c9d3284a7848a76c2597297ef60
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 1106db313bcbdfb43b6540e2f5f49398, type: 2}

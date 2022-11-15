@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7d0ff121e46dcf74d96fd91db9d0a886
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FutureMillennium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d9c3fa2f356fb014c97c429bb4067077, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
