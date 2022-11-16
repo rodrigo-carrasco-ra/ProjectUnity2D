@@ -39,6 +39,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if(!isAlive){return;}
         moveInput = value.Get<Vector2>();
+
     }
 
     void Run()
@@ -55,18 +56,20 @@ public class PlayerMovement : MonoBehaviour
     void OnJump (InputValue value) 
     {
         if(!isAlive){return;}
-        if (!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) {return;}  //si el boxcollider no esta tocando el layer Ground que siga al siguiente if
+        myAnimator.SetBool("isJumping",true);
+        if (!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) {return ;}  //si el boxcollider no esta tocando el layer Ground que siga al siguiente if
         if(value.isPressed)
         {
             myRigidbody.velocity += new Vector2(0f,jumpSpeed);
+
         }
     }
 
     void OnFire (InputValue value)
     {
         if(!isAlive){return;}
+        myAnimator.SetTrigger("isAttacking");
         Instantiate (bullet,gun.position, transform.rotation); 
-
     }
     void FlipSprite()
     {   
@@ -89,5 +92,10 @@ public class PlayerMovement : MonoBehaviour
             Destroy(gameObject,2);
 
         }
+    }
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.CompareTag("Ground"))
+        myAnimator.SetBool("isJumping",false);
     }
 }

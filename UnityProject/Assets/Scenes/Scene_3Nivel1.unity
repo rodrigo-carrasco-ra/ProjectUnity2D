@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 4623686}
   m_Layer: 6
   m_Name: Objects
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -344,7 +344,7 @@ Tilemap:
       - {fileID: -415186321, guid: 20bf9e0a3cbfab345a87f3a185e6e7fc, type: 3}
       - {fileID: -1058805219, guid: 20bf9e0a3cbfab345a87f3a185e6e7fc, type: 3}
       - {fileID: -1525336167, guid: 20bf9e0a3cbfab345a87f3a185e6e7fc, type: 3}
-      m_AnimationSpeed: 3.0000002
+      m_AnimationSpeed: 3
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -1250,6 +1250,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 874d1c84f0d0f714d8160ab191e64dba, type: 3}
+--- !u!1001 &576149945
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4497759961817644806, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_Name
+      value: 'Music '
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.4978347
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.165315
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 37.091133
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4497759961817644811, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d98bba48609045c45b699150e40bd4e1, type: 3}
 --- !u!4 &577380547 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7969157792761700180, guid: 874d1c84f0d0f714d8160ab191e64dba, type: 3}
@@ -15469,7 +15526,7 @@ GameObject:
   - component: {fileID: 1966982986}
   m_Layer: 6
   m_Name: Platforms
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24425,11 +24482,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7216684227311816232, guid: 5a9d490c73c581645a6489fb7338a557, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.76188636
+      value: 0.9891546
       objectReference: {fileID: 0}
     - target: {fileID: 7216684227311816232, guid: 5a9d490c73c581645a6489fb7338a557, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.8033757
+      value: 0.80225575
       objectReference: {fileID: 0}
     - target: {fileID: 7216684227311816407, guid: 5a9d490c73c581645a6489fb7338a557, type: 3}
       propertyPath: orthographic size
